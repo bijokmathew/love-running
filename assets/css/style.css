@@ -246,6 +246,12 @@ footer{
     hr{
         display: none;
     }
+    #times div{
+        width: 100%;
+        clear: both;
+        padding: 0;
+        height: 150px;
+    }
 }
 @media screen and (max-width : 950px) {
     #menu{
